@@ -104,7 +104,7 @@ p.smaller {
   height: 320px;
   border-radius: 160px;
   box-shadow: inset 0 0 70px rgba(255, 255, 255, 0.69), 0 1px 1px rgba(0, 0, 0, 0.49);
-  -webkit-filter: grayscale(0.8); }
+  -webkit-filter: grayscale(10%); }
 
 .bird {
   padding: 20px;
@@ -125,6 +125,15 @@ p.smaller {
 .holman {
   background: url("loveitsomuch.png") bottom no-repeat;
   box-shadow: inset 0 0 50px rgba(255, 255, 255, 0.9), 0 1px 1px rgba(0, 0, 0, 0.49); }
+
+.gemfile {
+  background: url("gemfile.png") left top no-repeat;
+  width: 800px;
+  height: 420px; }
+
+code {
+  font-family: Consolas, 'Liberation Mono', Courier, monospace;
+  text-shadow: 0 1px 1px #000; }
 
 .right {
   float: right; }
