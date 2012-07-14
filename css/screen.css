@@ -1,6 +1,6 @@
-@import url(background.css);
-@import url(animations.css);
-@import url(media.css);
+@import url(css/background.css);
+@import url(css/animations.css);
+@import url(css/media.css);
 
 html, body {
   height: 100%;

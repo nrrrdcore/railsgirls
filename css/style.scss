@@ -95,7 +95,7 @@ p.smaller {
 }
 
 .github-is {
-  background: url('github.png');
+  background: url('../images/github.png');
   width: 800px;
   height: 420px;
 }
@@ -104,7 +104,7 @@ p.smaller {
 }
 
 .profile {
-  background: url('profile_picture.png') center;
+  background: url('../images/profile_picture.png') center;
   width: 320px;
   height: 320px;
   border-radius: 160px;
@@ -114,29 +114,29 @@ p.smaller {
 
 .bird {
   padding: 20px;
-  background: url('twitter-bird.png') center no-repeat;
+  background: url('../images/twitter-bird.png') center no-repeat;
 }
 .whiteocat {
   padding: 20px;
-  background: url('whiteocat.png') center no-repeat;
+  background: url('../images/whiteocat.png') center no-repeat;
 }
 
 .sublime, .holman {
   height: 400px;
   width: 700px;
-  background: url('codez.png') center no-repeat;
+  background: url('../images/codez.png') center no-repeat;
   border: 1px solid #000;
   border-radius: 10px;
   box-shadow: inset 0 0 50px rgba(255,255,255,.39), 0 1px 1px rgba(0,0,0,.49);
 }
 
 .holman {
-  background: url('loveitsomuch.png') bottom no-repeat; 
+  background: url('../images/loveitsomuch.png') bottom no-repeat; 
   box-shadow: inset 0 0 50px rgba(255,255,255,.9), 0 1px 1px rgba(0,0,0,.49); 
 }
 
 .gemfile {
-  background: url('gemfile.png') left top no-repeat;
+  background: url('../images/gemfile.png') left top no-repeat;
   width: 800px;
   height: 420px;
 }
